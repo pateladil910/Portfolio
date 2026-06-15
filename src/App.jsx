@@ -125,10 +125,10 @@ useEffect(() => {
             Adil Patel.
           </h1>
           <h2 className="text-2xl sm:text-4xl font-bold text-slate-400 mb-6 max-w-3xl leading-tight">
-            Building intelligent data systems and full-stack interfaces.
+            Full-Stack Developer transitioning into Data Science, building intelligent, data-powered applications.
           </h2>
           <p className="max-w-xl text-slate-400 mb-8 text-sm sm:text-base leading-relaxed">
-            I am an Aspiring Data Science Engineer and Computer Engineering student at LDRP-ITR. I specialize in data-driven architectures, machine monitoring environments, and robust enterprise backend layers.
+            I am a Computer Engineering student at LDRP-ITR and an aspiring Data Science Engineer. I specialize in data-driven architectures, machine monitoring, and building robust enterprise backend layers.
           </p>
           <div className="flex flex-wrap gap-4">
             <a href="#portfolio" className="px-5 py-3 border-2 border-cyan-400 text-cyan-400 text-sm font-semibold rounded-md hover:bg-cyan-400/10 hover:shadow-lg hover:shadow-cyan-400/20 transition-all duration-300">
